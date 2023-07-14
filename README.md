@@ -1,3 +1,3 @@
 
 <h1>Screenshot of Tetris App</h1>
-<img hight=1972px width=2428px src="./assets/appName.png">
+<img hight=1500px width=1200px src="./assets/appName.png">
